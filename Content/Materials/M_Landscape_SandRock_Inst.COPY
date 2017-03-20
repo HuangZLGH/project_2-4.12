@@ -1,0 +1,65 @@
+Begin Object Class=MaterialInstanceConstant Name="M_Landscape_SandRock_Inst"
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_5"
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_5"
+   End Object
+   Parent=Material'/Game/Assets/Terrain/M_Landscape_SandRock.M_Landscape_SandRock'
+   ParentLightingGuid=12F5D8F84023AECC8991B480FA1DAD30
+   ScalarParameterValues(0)=(ParameterName="HeightLerpContrast",ParameterValue=1.750000,ExpressionGUID=C586A05249248C03F3B2B7B0F938AFFE)
+   ScalarParameterValues(1)=(ParameterName="DunesBlendBrightness",ParameterValue=1.493559,ExpressionGUID=2AC2BB4C406D9567F1665389CCA21089)
+   ScalarParameterValues(2)=(ParameterName="DunesBlendPower",ParameterValue=15.000000,ExpressionGUID=3C9901574EF5764664F26B91CC088E02)
+   ScalarParameterValues(3)=(ParameterName="DunesNormalIntensity",ParameterValue=0.486726,ExpressionGUID=C2ADC7714898CD25BC83119F7BBBC645)
+   ScalarParameterValues(4)=(ParameterName="DunesScaleNormal",ParameterValue=19.221611,ExpressionGUID=0B6104364BE5920441DE12A99743DCED)
+   ScalarParameterValues(5)=(ParameterName="DustDistortionSize",ParameterValue=1617.028809,ExpressionGUID=979EBE774B7B1B69369272AA09986C15)
+   ScalarParameterValues(6)=(ParameterName="DustDistortionSpeed",ParameterValue=-0.472566,ExpressionGUID=E0AAAD8C4AE04F02ED0B868E63915074)
+   ScalarParameterValues(7)=(ParameterName="DustDistortionStrength",ParameterValue=0.318584,ExpressionGUID=AF7875724C6D6FD2833B2F8A330D269B)
+   ScalarParameterValues(8)=(ParameterName="DustFadeDistance",ParameterValue=2000.000000,ExpressionGUID=795ED28D4CF296699E6A3AA7CF9C1482)
+   ScalarParameterValues(9)=(ParameterName="DustFadeOffset",ParameterValue=600.000000,ExpressionGUID=B95AECAF491B66D0A36ED09C615AFDDA)
+   ScalarParameterValues(10)=(ParameterName="DustScale",ParameterValue=0.082834,ExpressionGUID=C125638B4207C479ADDFDB9221917DC4)
+   ScalarParameterValues(11)=(ParameterName="DustSpeed",ParameterValue=-0.097345,ExpressionGUID=0D64DE1C430D973A377225AD0760409D)
+   ScalarParameterValues(12)=(ParameterName="PebblesBaseScale",ParameterValue=0.100000,ExpressionGUID=CD6B70604C2CC37734539C9BAFC2C97C)
+   ScalarParameterValues(13)=(ParameterName="PebblesSpecular",ParameterValue=0.030000,ExpressionGUID=10EAF8BF41709C03DBBC18BF7D73E6DD)
+   ScalarParameterValues(14)=(ParameterName="RockmaskBrightness",ParameterValue=11.675720,ExpressionGUID=DF7A238749AF889A314A74A5D078565F)
+   ScalarParameterValues(15)=(ParameterName="RockmaskContrast",ParameterValue=11.355176,ExpressionGUID=7742A135496F6026C1859B9711429015)
+   ScalarParameterValues(16)=(ParameterName="RockmaskThreshold",ParameterValue=0.207926,ExpressionGUID=A0EB7E694BE90C4872E6D3B840C488D3)
+   ScalarParameterValues(17)=(ParameterName="AOPowerRocks",ParameterValue=4.775035,ExpressionGUID=5285D21D417262C2DCF0A4B07121C15A)
+   ScalarParameterValues(18)=(ParameterName="DetailNormalIntensityRocks",ParameterValue=1.000000,ExpressionGUID=F922F9DF4A0AA2779DACE8973A23FF4A)
+   ScalarParameterValues(19)=(ParameterName="DetailNormalScaleRocks",ParameterValue=1.250655,ExpressionGUID=0F167A3F485342C0E656C8AD0818C7D2)
+   ScalarParameterValues(20)=(ParameterName="RoughnessRocksHigh",ParameterValue=1.000000,ExpressionGUID=8A5531C844166BACD643338B545A67BD)
+   ScalarParameterValues(21)=(ParameterName="RoughnessRocksLow",ParameterValue=0.400000,ExpressionGUID=419D347E4502290BD0234284C074C016)
+   ScalarParameterValues(22)=(ParameterName="ScaleRocks",ParameterValue=0.250000,ExpressionGUID=DB7B4C9C4BFA7B7072CC059393A9DA6F)
+   ScalarParameterValues(23)=(ParameterName="ScaleRocks2",ParameterValue=0.100000,ExpressionGUID=BA26D73540886DBB277EA9BFE7D67ABD)
+   ScalarParameterValues(24)=(ParameterName="AOIntensity",ParameterValue=0.185841,ExpressionGUID=1BCF8A2F4C9004808C3A709114E19A19)
+   ScalarParameterValues(25)=(ParameterName="NormalIntensity",ParameterValue=0.500000,ExpressionGUID=A8825E414188C45F9F9740B6DCE93DAC)
+   ScalarParameterValues(26)=(ParameterName="Roughness",ParameterValue=0.900000,ExpressionGUID=D55C23404E968C5D62537C9CCFF7E769)
+   ScalarParameterValues(27)=(ParameterName="ScaleDiffuse",ParameterValue=0.265487,ExpressionGUID=371EFF88414EFA9EE63CEFA9AF01A4CB)
+   ScalarParameterValues(28)=(ParameterName="ScaleNormal",ParameterValue=1.500000,ExpressionGUID=0FA9FD70479ED1DB28B2AC90B3FE68DC)
+   ScalarParameterValues(29)=(ParameterName="Specular",ParameterValue=0.411504,ExpressionGUID=F006D15A445EC731237CFF994826E0E9)
+   ScalarParameterValues(30)=(ParameterName="maskBrightness",ParameterValue=5.000000,ExpressionGUID=1D9FABD4480D38B0F391DD8D9AEADA1F)
+   ScalarParameterValues(31)=(ParameterName="maskContrast",ParameterValue=20.000000,ExpressionGUID=609CF3024E586A5CEF519BA2FDF8108F)
+   ScalarParameterValues(32)=(ParameterName="ZBlend",ParameterValue=18529.498047,ExpressionGUID=209ADEBB4BBD3DAAADA66D8CF5D87E5E)
+   ScalarParameterValues(33)=(ParameterName="ZBlendOffset",ParameterValue=0.553983,ExpressionGUID=27D0E26B4B03ED75DFB1ED93420B3045)
+   ScalarParameterValues(34)=(ParameterName="RefractionDepthBias")
+   VectorParameterValues(0)=(ParameterName="DustColor",ParameterValue=(R=0.499999,G=0.341109,B=0.134916,A=1.000000),ExpressionGUID=89BA7BE94693267E9D08B7B5F5E39239)
+   VectorParameterValues(1)=(ParameterName="DustNormalDirection",ParameterValue=(R=0.000000,G=1.000000,B=1.000000,A=1.000000),ExpressionGUID=45AD8D8E4CF80F0643E7DAA4AF746B49)
+   VectorParameterValues(2)=(ParameterName="Pebbles dirt color",ParameterValue=(R=0.665000,G=0.526479,B=0.345800,A=0.000000),ExpressionGUID=32B477D144AA41CB971339A34AD47AB4)
+   VectorParameterValues(3)=(ParameterName="Pebbles stone color",ParameterValue=(R=0.985000,G=0.864342,B=0.743675,A=0.000000),ExpressionGUID=E0FCE7424BAD9BBBFCB678B1263EC79E)
+   VectorParameterValues(4)=(ParameterName="Color1Rocks",ParameterValue=(R=0.125000,G=0.053757,B=0.009613,A=1.000000),ExpressionGUID=A77A14C943F1A3F4EE04028D5CEA0836)
+   VectorParameterValues(5)=(ParameterName="Color2Rocks",ParameterValue=(R=0.045000,G=0.037014,B=0.031704,A=1.000000),ExpressionGUID=C37714E9403F4FE42972F49514E2D06E)
+   VectorParameterValues(6)=(ParameterName="Sand Color",ParameterValue=(R=0.215518,G=0.163102,B=0.118153,A=1.000000),ExpressionGUID=526540CA433C94922B5333AF737FA440)
+   VectorParameterValues(7)=(ParameterName="Sand Color2",ParameterValue=(R=0.706897,G=0.501352,B=0.233591,A=1.000000),ExpressionGUID=10A33829474792F1449EFE84510B91DC)
+   VectorParameterValues(8)=(ParameterName="Sand Color3",ParameterValue=(R=0.450000,G=0.367827,B=0.220500,A=1.000000),ExpressionGUID=10967BB240F3ADCCA1348DBC8643273B)
+   BasePropertyOverrides=(OpacityMaskClipValue=0.333300)
+   ReferencedTextureGuids(0)=D27BE3E94733198A416EE28F64693FC1
+   ReferencedTextureGuids(1)=32389EEB47F0A905D1C0588863F08FF3
+   ReferencedTextureGuids(2)=317D151E41B3191480F7C4BE782DF223
+   ReferencedTextureGuids(3)=0585932D478399F0ED6B5DA14A3E8097
+   ReferencedTextureGuids(4)=34DF61E243B9D2159896B988BB11E2E5
+   ReferencedTextureGuids(5)=1932CCB5472FCDE760FF02B2FE93909C
+   ReferencedTextureGuids(6)=394CCFA2403592447F5686B6A76A4D3F
+   ReferencedTextureGuids(7)=D7E3D4E24F42C905337BFA911CCC735C
+   ReferencedTextureGuids(8)=28EB2DEC48D7DBF0DACD0FBA230ACD5F
+   ReferencedTextureGuids(9)=66DC8EB045B6BFE9AB96F6B56FA86ECE
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_5'
+   LightingGuid=E154486E49D63A794DF99CA49FD523A7
+End Object

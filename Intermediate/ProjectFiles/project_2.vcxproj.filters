@@ -1,0 +1,52 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+	<ItemGroup>
+		<None Include="..\..\project_2.uproject" />
+		<Filter Include="Source">
+			<UniqueIdentifier>{F73F05AE-AECE-48A3-8537-78E97AAF2013}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Source\project_2.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<None Include="..\..\Source\project_2Editor.Target.cs">
+			<Filter>Source</Filter>
+		</None >
+		<Filter Include="Config">
+			<UniqueIdentifier>{846A1C8B-81F4-4AF4-997A-1C2A475441CB}</UniqueIdentifier>
+		</Filter>
+		<None Include="..\..\Config\DefaultEditor.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultEngine.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultGame.ini">
+			<Filter>Config</Filter>
+		</None >
+		<None Include="..\..\Config\DefaultInput.ini">
+			<Filter>Config</Filter>
+		</None >
+		<Filter Include="Source\project_2">
+			<UniqueIdentifier>{D46BF61A-6705-4A47-B714-1CF6988756A7}</UniqueIdentifier>
+		</Filter>
+		<ClCompile Include="..\..\Source\project_2\newcalss.cpp">
+			<Filter>Source\project_2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\project_2\newcalss.h">
+			<Filter>Source\project_2</Filter>
+		</ClInclude >
+		<None Include="..\..\Source\project_2\project_2.Build.cs">
+			<Filter>Source\project_2</Filter>
+		</None >
+		<ClCompile Include="..\..\Source\project_2\project_2.cpp">
+			<Filter>Source\project_2</Filter>
+		</ClCompile >
+		<ClInclude Include="..\..\Source\project_2\project_2.h">
+			<Filter>Source\project_2</Filter>
+		</ClInclude >
+	</ItemGroup>
+</Project>

@@ -1,0 +1,1475 @@
+Begin Object Class=Material Name="M_Landscape_SandRock"
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_42"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_6"
+   End Object
+   Begin Object Class=MaterialExpressionAdd Name="MaterialExpressionAdd_7"
+   End Object
+   Begin Object Class=MaterialExpressionBreakMaterialAttributes Name="MaterialExpressionBreakMaterialAttributes_0"
+   End Object
+   Begin Object Class=MaterialExpressionBreakMaterialAttributes Name="MaterialExpressionBreakMaterialAttributes_3"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_0"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_40"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_42"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_43"
+   End Object
+   Begin Object Class=MaterialExpressionClamp Name="MaterialExpressionClamp_5"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_0"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_1"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_2"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_3"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_4"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_5"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_6"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_70"
+   End Object
+   Begin Object Class=MaterialExpressionComment Name="MaterialExpressionComment_71"
+   End Object
+   Begin Object Class=MaterialExpressionComponentMask Name="MaterialExpressionComponentMask_1"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_0"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_1"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_2"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_3"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_6"
+   End Object
+   Begin Object Class=MaterialExpressionConstant Name="MaterialExpressionConstant_7"
+   End Object
+   Begin Object Class=MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_56"
+   End Object
+   Begin Object Class=MaterialExpressionConstant3Vector Name="MaterialExpressionConstant3Vector_57"
+   End Object
+   Begin Object Class=MaterialExpressionDivide Name="MaterialExpressionDivide_2"
+   End Object
+   Begin Object Class=MaterialExpressionDotProduct Name="MaterialExpressionDotProduct_25"
+   End Object
+   Begin Object Class=MaterialExpressionDotProduct Name="MaterialExpressionDotProduct_26"
+   End Object
+   Begin Object Class=MaterialExpressionDotProduct Name="MaterialExpressionDotProduct_3"
+   End Object
+   Begin Object Class=MaterialExpressionIf Name="MaterialExpressionIf_0"
+   End Object
+   Begin Object Class=MaterialExpressionLandscapeLayerBlend Name="MaterialExpressionLandscapeLayerBlend_0"
+   End Object
+   Begin Object Class=MaterialExpressionLandscapeLayerCoords Name="MaterialExpressionLandscapeLayerCoords_1"
+   End Object
+   Begin Object Class=MaterialExpressionLandscapeLayerCoords Name="MaterialExpressionLandscapeLayerCoords_2"
+   End Object
+   Begin Object Class=MaterialExpressionLandscapeLayerWeight Name="MaterialExpressionLandscapeLayerWeight_0"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_0"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_44"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_47"
+   End Object
+   Begin Object Class=MaterialExpressionLinearInterpolate Name="MaterialExpressionLinearInterpolate_48"
+   End Object
+   Begin Object Class=MaterialExpressionMakeMaterialAttributes Name="MaterialExpressionMakeMaterialAttributes_2"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_2"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_22"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_23"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_24"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_31"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_4"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_5"
+   End Object
+   Begin Object Class=MaterialExpressionMaterialFunctionCall Name="MaterialExpressionMaterialFunctionCall_6"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_1"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_13"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_16"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_160"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_161"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_17"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_2"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_22"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_3"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_6"
+   End Object
+   Begin Object Class=MaterialExpressionMultiply Name="MaterialExpressionMultiply_7"
+   End Object
+   Begin Object Class=MaterialExpressionOneMinus Name="MaterialExpressionOneMinus_0"
+   End Object
+   Begin Object Class=MaterialExpressionPanner Name="MaterialExpressionPanner_1"
+   End Object
+   Begin Object Class=MaterialExpressionPixelNormalWS Name="MaterialExpressionPixelNormalWS_0"
+   End Object
+   Begin Object Class=MaterialExpressionPixelNormalWS Name="MaterialExpressionPixelNormalWS_13"
+   End Object
+   Begin Object Class=MaterialExpressionPower Name="MaterialExpressionPower_28"
+   End Object
+   Begin Object Class=MaterialExpressionPower Name="MaterialExpressionPower_29"
+   End Object
+   Begin Object Class=MaterialExpressionPower Name="MaterialExpressionPower_3"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_1"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_10"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_11"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_12"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_13"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_14"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_15"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_16"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_17"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_173"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_176"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_179"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_18"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_182"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_185"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_19"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_190"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_2"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_20"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_208"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_209"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_210"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_23"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_24"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_25"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_26"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_3"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_31"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_32"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_4"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_6"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_7"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_8"
+   End Object
+   Begin Object Class=MaterialExpressionScalarParameter Name="MaterialExpressionScalarParameter_9"
+   End Object
+   Begin Object Class=MaterialExpressionSine Name="MaterialExpressionSine_1"
+   End Object
+   Begin Object Class=MaterialExpressionTextureCoordinate Name="MaterialExpressionTextureCoordinate_1"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_4"
+   End Object
+   Begin Object Class=MaterialExpressionTextureSample Name="MaterialExpressionTextureSample_51"
+   End Object
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_4"
+   End Object
+   Begin Object Class=MaterialExpressionTime Name="MaterialExpressionTime_5"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_1"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_12"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_13"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_2"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_3"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_4"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_41"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_42"
+   End Object
+   Begin Object Class=MaterialExpressionVectorParameter Name="MaterialExpressionVectorParameter_5"
+   End Object
+   Begin Object Class=MaterialExpressionVertexNormalWS Name="MaterialExpressionVertexNormalWS_12"
+   End Object
+   Begin Object Class=MaterialExpressionWorldPosition Name="MaterialExpressionWorldPosition_1"
+   End Object
+   Begin Object Class=SceneThumbnailInfoWithPrimitive Name="SceneThumbnailInfoWithPrimitive_4"
+   End Object
+   Begin Object Name="MaterialExpressionAdd_42"
+      A=(Expression=MaterialExpressionLandscapeLayerBlend'M_Landscape_SandRock:MaterialExpressionLandscapeLayerBlend_0')
+      B=(Expression=MaterialExpressionOneMinus'M_Landscape_SandRock:MaterialExpressionOneMinus_0')
+      MaterialExpressionEditorX=-2394
+      MaterialExpressionEditorY=841
+      MaterialExpressionGuid=4D57FB534BB935FC4FE0A8821246DA89
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_6"
+      A=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_16')
+      B=(Expression=MaterialExpressionTime'M_Landscape_SandRock:MaterialExpressionTime_4')
+      MaterialExpressionEditorX=-2350
+      MaterialExpressionEditorY=-900
+      MaterialExpressionGuid=9A89DFD34F34A9BF32BB1690DDCEF5B1
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionAdd_7"
+      A=(Expression=MaterialExpressionDivide'M_Landscape_SandRock:MaterialExpressionDivide_2')
+      B=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_13')
+      MaterialExpressionEditorX=-2750
+      MaterialExpressionEditorY=-1012
+      MaterialExpressionGuid=D892C5F643CFFE26CE39D9B6969A16FB
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionBreakMaterialAttributes_0"
+      MaterialAttributes=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_23')
+      MaterialExpressionEditorX=-1136
+      MaterialExpressionEditorY=1712
+      MaterialExpressionGuid=25778DFC403EE14DDFD3DD881B25B0C6
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionBreakMaterialAttributes_3"
+      MaterialAttributes=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_6')
+      MaterialExpressionEditorX=-1136
+      MaterialExpressionEditorY=1120
+      MaterialExpressionGuid=20C9E0AC44FEE73441B791A4BE0C99EF
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_0"
+      Input=(Expression=MaterialExpressionLandscapeLayerWeight'M_Landscape_SandRock:MaterialExpressionLandscapeLayerWeight_0')
+      MaterialExpressionEditorX=-1824
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=F7D07AED4BEB78C5A4F702A29ACC582A
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_40"
+      Input=(Expression=MaterialExpressionAdd'M_Landscape_SandRock:MaterialExpressionAdd_42')
+      MaterialExpressionEditorX=-2186
+      MaterialExpressionEditorY=841
+      MaterialExpressionGuid=F5755E554C0CBFAEE5575EAB8CF6E5C1
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_42"
+      Input=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_160')
+      MaterialExpressionEditorX=-1040
+      MaterialExpressionEditorY=2400
+      MaterialExpressionGuid=A6481D684A3ADD481604DF8BA37F5033
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_43"
+      Input=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_161')
+      MaterialExpressionEditorX=-4254
+      MaterialExpressionEditorY=1234
+      MaterialExpressionGuid=D2165E2F4A5CEDC70D1AE180A1B261C3
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionClamp_5"
+      Input=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_22')
+      MaterialExpressionEditorX=-2494
+      MaterialExpressionEditorY=-516
+      MaterialExpressionGuid=D93AC8424B77755B0FF923966DBA3B13
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_0"
+      SizeX=1936
+      SizeY=976
+      Text="Blowing dust"
+      MaterialExpressionEditorX=-3667
+      MaterialExpressionEditorY=-1344
+      MaterialExpressionGuid=EAC677CF4471A746E3D7B5ADBCD7F037
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_1"
+      SizeX=1352
+      SizeY=584
+      Text="Rock-mask setup based on angle"
+      MaterialExpressionEditorX=-5278
+      MaterialExpressionEditorY=1072
+      MaterialExpressionGuid=18DFE0FD47980BE87037038439EC6022
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_2"
+      SizeX=1392
+      SizeY=1056
+      Text="Rock setup"
+      MaterialExpressionEditorX=-3686
+      MaterialExpressionEditorY=1472
+      MaterialExpressionGuid=946604F6466B6D6CF6116585AE0AF0E3
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_3"
+      SizeX=1152
+      SizeY=1056
+      Text="Sand setup"
+      MaterialExpressionEditorX=-4822
+      MaterialExpressionEditorY=-352
+      MaterialExpressionGuid=39488D9B480FBC98054E72BBD587ACB7
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_4"
+      SizeX=1136
+      SizeY=688
+      Text="Pebbles setup"
+      MaterialExpressionEditorX=-2787
+      MaterialExpressionEditorY=-144
+      MaterialExpressionGuid=84B9CEA6497BC3204CC93690705769EC
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_5"
+      SizeX=635
+      SizeY=383
+      Text="Draws the dust on top of all base color"
+      MaterialExpressionEditorX=399
+      MaterialExpressionEditorY=462
+      MaterialExpressionGuid=5741742E448955A5939CE6BDB06C3198
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_6"
+      SizeX=1712
+      SizeY=656
+      Text="Rock pokes through sand with a heightmap"
+      MaterialExpressionEditorX=-3574
+      MaterialExpressionEditorY=672
+      MaterialExpressionGuid=9977C40247B781BF7FB9B3A0544DF852
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_70"
+      SizeX=576
+      SizeY=384
+      Text="Landscape layer blend for sand and rocks"
+      MaterialExpressionEditorX=-3213
+      MaterialExpressionEditorY=857
+      MaterialExpressionGuid=D3C86CD74F2FD52E517A1DB62C498A4E
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComment_71"
+      SizeX=496
+      SizeY=240
+      Text="Landscape layer blend for pebbles"
+      MaterialExpressionEditorX=-2197
+      MaterialExpressionEditorY=238
+      MaterialExpressionGuid=4E903B794BB8CDE309E4F3B213010036
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionComponentMask_1"
+      Input=(Expression=MaterialExpressionWorldPosition'M_Landscape_SandRock:MaterialExpressionWorldPosition_1')
+      R=True
+      MaterialExpressionEditorX=-3022
+      MaterialExpressionEditorY=-1123
+      MaterialExpressionGuid=A986095148E13B908682F0AD498B48FC
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_0"
+      R=1.000000
+      MaterialExpressionEditorX=-3930
+      MaterialExpressionEditorY=1470
+      MaterialExpressionGuid=C8AE66F345FD6873688AB8A495144326
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_1"
+      MaterialExpressionEditorX=-3930
+      MaterialExpressionEditorY=1550
+      MaterialExpressionGuid=9D8FCAF84F9B0918998735A59BD1923B
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_2"
+      MaterialExpressionEditorX=-2048
+      MaterialExpressionEditorY=288
+      MaterialExpressionGuid=6B0A1A664FAEE9FD54989FBF79DD6105
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_3"
+      R=1.000000
+      MaterialExpressionEditorX=-2048
+      MaterialExpressionEditorY=368
+      MaterialExpressionGuid=2025549C48CD2DC75A20C2BC729CC7CC
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_6"
+      MaterialExpressionEditorX=-2984
+      MaterialExpressionEditorY=955
+      MaterialExpressionGuid=3D01138849AA803F93A3F08A35B90AA5
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant_7"
+      R=1.000000
+      MaterialExpressionEditorX=-2984
+      MaterialExpressionEditorY=1019
+      MaterialExpressionGuid=C092F62E45F8A04B31E40E89C335E0F3
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_56"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-1616
+      MaterialExpressionEditorY=2180
+      MaterialExpressionGuid=A1AA63B14E8DAF41774316BCC6E288EE
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionConstant3Vector_57"
+      Constant=(R=0.000000,G=0.000000,B=1.000000,A=0.000000)
+      MaterialExpressionEditorX=-4894
+      MaterialExpressionEditorY=1122
+      MaterialExpressionGuid=66A51366485D7F8E4ADD0691317CF320
+      Material=Material'M_Landscape_SandRock'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionDivide_2"
+      A=(Expression=MaterialExpressionComponentMask'M_Landscape_SandRock:MaterialExpressionComponentMask_1')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_19')
+      ConstB=1000.000000
+      MaterialExpressionEditorX=-2894
+      MaterialExpressionEditorY=-1092
+      MaterialExpressionGuid=A3CD0CD049C74F3D14312688D08D7B5A
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionDotProduct_25"
+      A=(Expression=MaterialExpressionConstant3Vector'M_Landscape_SandRock:MaterialExpressionConstant3Vector_56')
+      B=(Expression=MaterialExpressionPixelNormalWS'M_Landscape_SandRock:MaterialExpressionPixelNormalWS_13')
+      MaterialExpressionEditorX=-1440
+      MaterialExpressionEditorY=2288
+      MaterialExpressionGuid=7F1843A14C640A36F105C6BFB9FB1878
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionDotProduct_26"
+      A=(Expression=MaterialExpressionConstant3Vector'M_Landscape_SandRock:MaterialExpressionConstant3Vector_57')
+      B=(Expression=MaterialExpressionVertexNormalWS'M_Landscape_SandRock:MaterialExpressionVertexNormalWS_12')
+      MaterialExpressionEditorX=-4782
+      MaterialExpressionEditorY=1138
+      MaterialExpressionGuid=C1C53F1E4FAC276DB5680FA8F7207071
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionDotProduct_3"
+      A=(Expression=MaterialExpressionPixelNormalWS'M_Landscape_SandRock:MaterialExpressionPixelNormalWS_0')
+      B=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_5',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-2886
+      MaterialExpressionEditorY=-628
+      MaterialExpressionGuid=640014924606FA5435C4FE8413666F3F
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionIf_0"
+      A=(Expression=MaterialExpressionOneMinus'M_Landscape_SandRock:MaterialExpressionOneMinus_0')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_26')
+      AGreaterThanB=(Expression=MaterialExpressionConstant'M_Landscape_SandRock:MaterialExpressionConstant_0')
+      AEqualsB=(Expression=MaterialExpressionConstant'M_Landscape_SandRock:MaterialExpressionConstant_0')
+      ALessThanB=(Expression=MaterialExpressionConstant'M_Landscape_SandRock:MaterialExpressionConstant_1')
+      MaterialExpressionEditorX=-3806
+      MaterialExpressionEditorY=1394
+      MaterialExpressionGuid=48B5A4ED44D955A3B65A39ABC5A32C89
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionLandscapeLayerBlend_0"
+      Layers(0)=(LayerName="Sand",LayerInput=(Expression=MaterialExpressionConstant'M_Landscape_SandRock:MaterialExpressionConstant_6'),PreviewWeight=0.500000)
+      Layers(1)=(LayerName="Rocks",LayerInput=(Expression=MaterialExpressionConstant'M_Landscape_SandRock:MaterialExpressionConstant_7'))
+      ExpressionGUID=E07CBBDE48BA4A2B4997978C94B5B843
+      MaterialExpressionEditorX=-2888
+      MaterialExpressionEditorY=955
+      MaterialExpressionGuid=9762A53147A5D1456F4FB4979A6E095F
+      Material=Material'M_Landscape_SandRock'
+      bCollapsed=False
+   End Object
+   Begin Object Name="MaterialExpressionLandscapeLayerCoords_1"
+      MaterialExpressionEditorX=-3358
+      MaterialExpressionEditorY=1522
+      MaterialExpressionGuid=1B96725B405218124F0E5CA2B259B6CA
+      Material=Material'M_Landscape_SandRock'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionLandscapeLayerCoords_2"
+      MappingType=TCMT_XY
+      MaterialExpressionEditorX=-3358
+      MaterialExpressionEditorY=1746
+      MaterialExpressionGuid=4F5F635F4220DFB9D611FDA45BE2C11A
+      Material=Material'M_Landscape_SandRock'
+      bCollapsed=True
+   End Object
+   Begin Object Name="MaterialExpressionLandscapeLayerWeight_0"
+      Base=(Expression=MaterialExpressionConstant'M_Landscape_SandRock:MaterialExpressionConstant_2')
+      Layer=(Expression=MaterialExpressionConstant'M_Landscape_SandRock:MaterialExpressionConstant_3')
+      ParameterName="Pebbles"
+      ExpressionGUID=5B705E0542D746439039F39227D7D295
+      MaterialExpressionEditorX=-1968
+      MaterialExpressionEditorY=304
+      MaterialExpressionGuid=F53D3B934A101F58D1895881D9E5481C
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_0"
+      A=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_1')
+      B=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_3')
+      Alpha=(Expression=MaterialExpressionIf'M_Landscape_SandRock:MaterialExpressionIf_0')
+      MaterialExpressionEditorX=-2986
+      MaterialExpressionEditorY=1654
+      MaterialExpressionGuid=97BEFD77430BFE525198C5AB08E7BEC7
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_44"
+      A=(Expression=MaterialExpressionBreakMaterialAttributes'M_Landscape_SandRock:MaterialExpressionBreakMaterialAttributes_0',OutputIndex=2,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionBreakMaterialAttributes'M_Landscape_SandRock:MaterialExpressionBreakMaterialAttributes_3',OutputIndex=2,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionClamp'M_Landscape_SandRock:MaterialExpressionClamp_42')
+      MaterialExpressionEditorX=-496
+      MaterialExpressionEditorY=1856
+      MaterialExpressionGuid=570A3CC442645E8E6B1CBEA65BC9D282
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_47"
+      A=(Expression=MaterialExpressionBreakMaterialAttributes'M_Landscape_SandRock:MaterialExpressionBreakMaterialAttributes_0',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionBreakMaterialAttributes'M_Landscape_SandRock:MaterialExpressionBreakMaterialAttributes_3',Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionClamp'M_Landscape_SandRock:MaterialExpressionClamp_42')
+      MaterialExpressionEditorX=-492
+      MaterialExpressionEditorY=1692
+      MaterialExpressionGuid=45FF0FD24FAF7B48AC2F04B97758FF14
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionLinearInterpolate_48"
+      A=(Expression=MaterialExpressionBreakMaterialAttributes'M_Landscape_SandRock:MaterialExpressionBreakMaterialAttributes_0',OutputIndex=3,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      B=(Expression=MaterialExpressionBreakMaterialAttributes'M_Landscape_SandRock:MaterialExpressionBreakMaterialAttributes_3',OutputIndex=3,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      Alpha=(Expression=MaterialExpressionClamp'M_Landscape_SandRock:MaterialExpressionClamp_42')
+      MaterialExpressionEditorX=-512
+      MaterialExpressionEditorY=2112
+      MaterialExpressionGuid=2FA5535D4B8780CDB8B0128144574E46
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMakeMaterialAttributes_2"
+      BaseColor=(Expression=MaterialExpressionLinearInterpolate'M_Landscape_SandRock:MaterialExpressionLinearInterpolate_47')
+      Specular=(Expression=MaterialExpressionLinearInterpolate'M_Landscape_SandRock:MaterialExpressionLinearInterpolate_44')
+      Roughness=(Expression=MaterialExpressionLinearInterpolate'M_Landscape_SandRock:MaterialExpressionLinearInterpolate_48')
+      Normal=(Expression=MaterialExpressionBreakMaterialAttributes'M_Landscape_SandRock:MaterialExpressionBreakMaterialAttributes_0',OutputIndex=7,Mask=1,MaskR=1,MaskG=1,MaskB=1)
+      MaterialExpressionEditorX=-304
+      MaterialExpressionEditorY=1680
+      MaterialExpressionGuid=7EDF511442AC495F3C1DACBA032E2E5F
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_2"
+      MaterialFunction=MaterialFunction'/Game/Assets/Materials/MF_Pebbles.MF_Pebbles'
+      FunctionInputs(0)=(ExpressionInputId=FDC2F2C440C8CBDC861DC1BE2B3ADC9D,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_12',InputName="Dirt Color",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(1)=(ExpressionInputId=DCEA039A457282ECFBC92EAC1CA20BFB,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_13',InputName="Stone color",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(2)=(ExpressionInputId=A10ED882418FFD6AB934FD9DCEBC75A4,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_16',InputName="Specular"))
+      FunctionInputs(3)=(ExpressionInputId=C35F8A9349E061600098C29BBF02DC72,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_15',InputName="ScaleDiffuse"))
+      FunctionOutputs(0)=(ExpressionOutputId=5CA518434F75D2B4F9A1C182E0E376A5,Output=(OutputName="Blend mask"))
+      FunctionOutputs(1)=(ExpressionOutputId=47E7C23442801BF8E90B7DA55992C3F2,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-2160
+      MaterialExpressionEditorY=16
+      MaterialExpressionGuid=104236034EBD7B71B7C210BEBAF9F99E
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Blend mask")
+      Outputs(1)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_22"
+      MaterialFunction=MaterialFunction'/Game/Assets/Materials/MF_Sand.MF_Sand'
+      FunctionInputs(0)=(ExpressionInputId=4DCDC31441D5177B56786291C31C24AA,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_3',InputName="ScaleDiffuse"))
+      FunctionInputs(1)=(ExpressionInputId=D36F2F574FC0F5746DEE2DBCC37C8C10,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_13',InputName="Specular"))
+      FunctionInputs(2)=(ExpressionInputId=2E48053D446B32C2598FDBB28D5B31AA,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_7',InputName="ZBlend"))
+      FunctionInputs(3)=(ExpressionInputId=627B3B5440968E4D1DADE191B80E65F4,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_8',InputName="ZBlendOffset"))
+      FunctionInputs(4)=(ExpressionInputId=58DB1E6046FF82E463DC8884CC31F8E0,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_3',InputName="Color1",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(5)=(ExpressionInputId=182DB09C4388984C67035D8D493317DC,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_1',InputName="Color2",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(6)=(ExpressionInputId=66C4650A43151E6719718DA717C8277B,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_2',InputName="Color3",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(7)=(ExpressionInputId=A4D56EA347F0C0865459E3B6450C6577,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_12',InputName="Roughness"))
+      FunctionInputs(8)=(ExpressionInputId=782D2E5D4C47812AC75F658BC4AC5AD1,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_23',InputName="ScaleNormal"))
+      FunctionInputs(9)=(ExpressionInputId=163157444DA63C4E5568F98BEAE89265,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_24',InputName="NormalIntensity"))
+      FunctionInputs(10)=(ExpressionInputId=5E75D17D471BE15697F668B214C164E3,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_18',InputName="DuneScaleNormal"))
+      FunctionInputs(11)=(ExpressionInputId=F9C60AAD400C711335AA2393A67DF578,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_4',InputName="DuneNormalIntensity"))
+      FunctionInputs(12)=(ExpressionInputId=8746F2664DC009533D1A5DB5664F01C9,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_31',InputName="DunesBlendPower"))
+      FunctionInputs(13)=(ExpressionInputId=4139FC794A7AD88466EE6D9F5138EF3C,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_32',InputName="DunesBlendBrightness"))
+      FunctionInputs(14)=(ExpressionInputId=F647FA6245F8F6CB6EFF8A97EA2EBE6F,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_2',InputName="AOIntensity"))
+      FunctionOutputs(0)=(ExpressionOutputId=F01094BC49AC8DD6CCCC1895D788D6D6,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-3718
+      MaterialExpressionEditorY=-78
+      MaterialExpressionGuid=EE862F9941B26F9A1B4A58B0088FBAFF
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_23"
+      MaterialFunction=MaterialFunction'/Game/Assets/Materials/MF_Rocks.MF_Rocks'
+      FunctionInputs(0)=(ExpressionInputId=F95C3AEA4EF2959C1E44F084C8A00B58,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_176',InputName="RoughnessLow"))
+      FunctionInputs(1)=(ExpressionInputId=F3886BC04737069F57296CBCD0CC4005,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_179',InputName="AOPower"))
+      FunctionInputs(2)=(ExpressionInputId=50171EF64A7C7A3D3924688E6C30E69A,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_182',InputName="DetailNormalIntensity"))
+      FunctionInputs(3)=(ExpressionInputId=9DFDA16D4328C1907BEFFC91E6A486AF,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_185',InputName="DetailNormalScale"))
+      FunctionInputs(4)=(ExpressionInputId=D46AACA343B94EE8EB407EA61C00B86A,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_173',InputName="RoughnessHigh"))
+      FunctionInputs(5)=(ExpressionInputId=9BEFFCF54BE71EBA23EE6889CF3E7F9D,Input=(Expression=MaterialExpressionLinearInterpolate'M_Landscape_SandRock:MaterialExpressionLinearInterpolate_0',InputName="Scale"))
+      FunctionInputs(6)=(ExpressionInputId=FC46E1D7472C68009AC8B09ABC7EB70C,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_41',InputName="Color1",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(7)=(ExpressionInputId=16C8468548C90CC93AA109A6F3B90758,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_42',InputName="Color2",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionOutputs(0)=(ExpressionOutputId=47E7C23442801BF8E90B7DA55992C3F2,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-2324
+      MaterialExpressionEditorY=1816
+      MaterialExpressionGuid=339E9F4D4D7F0C1A1C6A83B93576A932
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_24"
+      MaterialFunction=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.HeightLerp'
+      FunctionInputs(0)=(ExpressionInputId=522930F442483EA49A2C159D365AD20A,Input=(OutputIndex=-1,InputName="A"))
+      FunctionInputs(1)=(ExpressionInputId=DCC75A8E43017C3B1AF2AD94F32E13C5,Input=(OutputIndex=-1,InputName="B"))
+      FunctionInputs(2)=(ExpressionInputId=7AB68F0841F03075F06D038ED7950EBE,Input=(Expression=MaterialExpressionClamp'M_Landscape_SandRock:MaterialExpressionClamp_40',InputName="Transistion Phase"))
+      FunctionInputs(3)=(ExpressionInputId=2D66D8C24B09717A97E8BEA535A4BDC8,Input=(Expression=MaterialExpressionTextureSample'M_Landscape_SandRock:MaterialExpressionTextureSample_51',OutputIndex=2,InputName="Height Texture",Mask=1,MaskG=1))
+      FunctionInputs(4)=(ExpressionInputId=25E63B0149C87485647617BC60B64B95,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_190',InputName="Contrast"))
+      FunctionOutputs(0)=(ExpressionOutputId=DB6322FA4F561176DCDD2DA917597668,Output=(OutputName="Results"))
+      FunctionOutputs(1)=(ExpressionOutputId=BD30F3BD4F03EC073582C193699130FD,Output=(OutputName="Alpha"))
+      FunctionOutputs(2)=(ExpressionOutputId=D985320A43D35E6B187D16931DD224EF,Output=(OutputName="Lerp Alpha No Contrast"))
+      MaterialExpressionEditorX=-1914
+      MaterialExpressionEditorY=841
+      MaterialExpressionGuid=EBE962744C714DB9CB21FC8D5564A817
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Results")
+      Outputs(1)=(OutputName="Alpha")
+      Outputs(2)=(OutputName="Lerp Alpha No Contrast")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_31"
+      MaterialFunction=MaterialFunction'/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideBaseColor.MatLayerBlend_OverrideBaseColor'
+      FunctionInputs(0)=(ExpressionInputId=7551607540174E8847FDFEA7E6975C7D,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_5',InputName="Material"))
+      FunctionInputs(1)=(ExpressionInputId=6FFD329D4F29DB65D71345AB1BDE70CB,Input=(Expression=MaterialExpressionVectorParameter'M_Landscape_SandRock:MaterialExpressionVectorParameter_4',InputName="NewBaseColor",Mask=1,MaskR=1,MaskG=1,MaskB=1))
+      FunctionInputs(2)=(ExpressionInputId=6ECF380F4DADE7DA7FF17CA16532CF18,Input=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_17',InputName="Mask"))
+      FunctionOutputs(0)=(ExpressionOutputId=F7C585F54643D8CAF0D51BBD9BDE2ADC,Output=(OutputName="Blended Material"))
+      MaterialExpressionEditorX=848
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=8233B7D3410232BB031FE0AEB9CE678C
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Blended Material")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_4"
+      MaterialFunction=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade'
+      FunctionInputs(0)=(ExpressionInputId=79FFEA6C4F3A46F51F8E50A349E4BB4B,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_6',InputName="Fade Length"))
+      FunctionInputs(1)=(ExpressionInputId=D5EC0E2F4DB888679BFC2A8B921262ED,Input=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_9',InputName="Fade Offset"))
+      FunctionInputs(2)=(ExpressionInputId=7B4195E6455691CA3782398687468578,Input=(OutputIndex=-1,InputName="For Vertex Shader"))
+      FunctionOutputs(0)=(ExpressionOutputId=160C00424E845E293F44DCBE13738CEE,Output=(OutputName="Result"))
+      MaterialExpressionEditorX=-1886
+      MaterialExpressionEditorY=-1252
+      MaterialExpressionGuid=1F2E79FB4F98A52384C5FA99714FB58C
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Result")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_5"
+      MaterialFunction=MaterialFunction'/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.MatLayerBlend_Standard'
+      FunctionInputs(0)=(ExpressionInputId=EFA63D0B46EF032837E8199E5B36B3E0,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_6',InputName="Base Material"))
+      FunctionInputs(1)=(ExpressionInputId=35B675B84041AED27688219B85171135,Input=(Expression=MaterialExpressionMakeMaterialAttributes'M_Landscape_SandRock:MaterialExpressionMakeMaterialAttributes_2',InputName="Top Material"))
+      FunctionInputs(2)=(ExpressionInputId=58AB44C64FD9086FC6AAB1B042B32C2E,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_24',OutputIndex=1,InputName="Alpha"))
+      FunctionOutputs(0)=(ExpressionOutputId=B7A48B68455CD8D9A45B3AAF57C5E97C,Output=(OutputName="Blended Material"))
+      MaterialExpressionEditorX=128
+      MaterialExpressionEditorY=512
+      MaterialExpressionGuid=DCDA100448A742AA47D3B8BDECF4C0A8
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Blended Material")
+   End Object
+   Begin Object Name="MaterialExpressionMaterialFunctionCall_6"
+      MaterialFunction=MaterialFunction'/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.MatLayerBlend_Standard'
+      FunctionInputs(0)=(ExpressionInputId=EFA63D0B46EF032837E8199E5B36B3E0,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_22',InputName="Base Material"))
+      FunctionInputs(1)=(ExpressionInputId=35B675B84041AED27688219B85171135,Input=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_2',OutputIndex=1,InputName="Top Material"))
+      FunctionInputs(2)=(ExpressionInputId=58AB44C64FD9086FC6AAB1B042B32C2E,Input=(Expression=MaterialExpressionClamp'M_Landscape_SandRock:MaterialExpressionClamp_0',InputName="Alpha"))
+      FunctionOutputs(0)=(ExpressionOutputId=B7A48B68455CD8D9A45B3AAF57C5E97C,Output=(OutputName="Blended Material"))
+      MaterialExpressionEditorX=-1742
+      MaterialExpressionEditorY=-78
+      MaterialExpressionGuid=3CCDCBC34A09561BFC0AF8A9F8452DD9
+      Material=Material'M_Landscape_SandRock'
+      Outputs(0)=(OutputName="Blended Material")
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_1"
+      A=(Expression=MaterialExpressionLandscapeLayerCoords'M_Landscape_SandRock:MaterialExpressionLandscapeLayerCoords_1')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_14')
+      MaterialExpressionEditorX=-3150
+      MaterialExpressionEditorY=1554
+      MaterialExpressionGuid=D835C3FE4738AA830FB9E692C5686DBD
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_13"
+      A=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_17')
+      B=(Expression=MaterialExpressionTime'M_Landscape_SandRock:MaterialExpressionTime_5')
+      MaterialExpressionEditorX=-2894
+      MaterialExpressionEditorY=-916
+      MaterialExpressionGuid=EF8A0BF544DF82ACEAC5A5AED22E2D75
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_16"
+      A=(Expression=MaterialExpressionSine'M_Landscape_SandRock:MaterialExpressionSine_1')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_20')
+      MaterialExpressionEditorX=-2510
+      MaterialExpressionEditorY=-964
+      MaterialExpressionGuid=CEAA6FEE480FB414D684A29073D48065
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_160"
+      A=(Expression=MaterialExpressionPower'M_Landscape_SandRock:MaterialExpressionPower_28')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_209')
+      MaterialExpressionEditorX=-1168
+      MaterialExpressionEditorY=2400
+      MaterialExpressionGuid=313136B34D1CD1C6EA28169BB5FD8D6F
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_161"
+      A=(Expression=MaterialExpressionPower'M_Landscape_SandRock:MaterialExpressionPower_29')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_25')
+      MaterialExpressionEditorX=-4378
+      MaterialExpressionEditorY=1250
+      MaterialExpressionGuid=A943FF314B17480E46DF15A29690028F
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_17"
+      A=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_6')
+      B=(Expression=MaterialExpressionClamp'M_Landscape_SandRock:MaterialExpressionClamp_5')
+      MaterialExpressionEditorX=-1486
+      MaterialExpressionEditorY=-1092
+      MaterialExpressionGuid=C79F2814477B6F7163989EBED91ED01F
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_2"
+      A=(Expression=MaterialExpressionTextureCoordinate'M_Landscape_SandRock:MaterialExpressionTextureCoordinate_1')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_1')
+      MaterialExpressionEditorX=-2222
+      MaterialExpressionEditorY=-1220
+      MaterialExpressionGuid=3BBDD9C24509A7A20AD135A7EC0D6530
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_22"
+      A=(Expression=MaterialExpressionPower'M_Landscape_SandRock:MaterialExpressionPower_3')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_32')
+      MaterialExpressionEditorX=-2622
+      MaterialExpressionEditorY=-516
+      MaterialExpressionGuid=643BC08D481DE939936A239C25307540
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_3"
+      A=(Expression=MaterialExpressionLandscapeLayerCoords'M_Landscape_SandRock:MaterialExpressionLandscapeLayerCoords_2')
+      B=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_10')
+      MaterialExpressionEditorX=-3166
+      MaterialExpressionEditorY=1762
+      MaterialExpressionGuid=F48FE6AD43C6C8A3604759B73777927F
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_6"
+      A=(Expression=MaterialExpressionMaterialFunctionCall'M_Landscape_SandRock:MaterialExpressionMaterialFunctionCall_4')
+      B=(Expression=MaterialExpressionTextureSample'M_Landscape_SandRock:MaterialExpressionTextureSample_4',OutputIndex=3,Mask=1,MaskB=1)
+      MaterialExpressionEditorX=-1630
+      MaterialExpressionEditorY=-1156
+      MaterialExpressionGuid=1AFCF0A449CE883D644BF5B4EC1ADC37
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionMultiply_7"
+      A=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_11')
+      B=(Expression=MaterialExpressionAdd'M_Landscape_SandRock:MaterialExpressionAdd_6')
+      MaterialExpressionEditorX=-2222
+      MaterialExpressionEditorY=-996
+      MaterialExpressionGuid=EA6E082C43013B37341863BFCFBC3DB1
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionOneMinus_0"
+      Input=(Expression=MaterialExpressionClamp'M_Landscape_SandRock:MaterialExpressionClamp_43')
+      MaterialExpressionEditorX=-4046
+      MaterialExpressionEditorY=1250
+      MaterialExpressionGuid=A7F034194E683E04A70753B0ED397611
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionPanner_1"
+      Coordinate=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_2')
+      Time=(Expression=MaterialExpressionMultiply'M_Landscape_SandRock:MaterialExpressionMultiply_7')
+      SpeedX=0.100000
+      SpeedY=1.000000
+      MaterialExpressionEditorX=-2094
+      MaterialExpressionEditorY=-1092
+      MaterialExpressionGuid=C481B80D4C15A25399A0C49E7297EE3A
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionPixelNormalWS_0"
+      MaterialExpressionEditorX=-3070
+      MaterialExpressionEditorY=-676
+      MaterialExpressionGuid=33A25B924AAD651DF1AA20890452F27C
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionPixelNormalWS_13"
+      MaterialExpressionEditorX=-1632
+      MaterialExpressionEditorY=2336
+      MaterialExpressionGuid=99A98BEC4ED4D2E89978AB8FD538F586
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionPower_28"
+      Base=(Expression=MaterialExpressionDotProduct'M_Landscape_SandRock:MaterialExpressionDotProduct_25')
+      Exponent=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_208')
+      MaterialExpressionEditorX=-1312
+      MaterialExpressionEditorY=2352
+      MaterialExpressionGuid=05EE22FA43D2DA75639D65BC0A08C6E1
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionPower_29"
+      Base=(Expression=MaterialExpressionDotProduct'M_Landscape_SandRock:MaterialExpressionDotProduct_26')
+      Exponent=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_210')
+      MaterialExpressionEditorX=-4558
+      MaterialExpressionEditorY=1202
+      MaterialExpressionGuid=E9078A334F900D8A0B7B34B91A217C71
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionPower_3"
+      Base=(Expression=MaterialExpressionDotProduct'M_Landscape_SandRock:MaterialExpressionDotProduct_3')
+      Exponent=(Expression=MaterialExpressionScalarParameter'M_Landscape_SandRock:MaterialExpressionScalarParameter_31')
+      MaterialExpressionEditorX=-2782
+      MaterialExpressionEditorY=-564
+      MaterialExpressionGuid=D8FA06E34A24FE0D92BB5AA19E183A1A
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_1"
+      DefaultValue=1.000000
+      ParameterName="DustScale"
+      ExpressionGUID=C125638B4207C479ADDFDB9221917DC4
+      Group="Dust"
+      MaterialExpressionEditorX=-2382
+      MaterialExpressionEditorY=-1156
+      MaterialExpressionGuid=CCE3009F4540C8DF774DD8A276049B7D
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_10"
+      DefaultValue=1.000000
+      ParameterName="ScaleRocks2"
+      ExpressionGUID=BA26D73540886DBB277EA9BFE7D67ABD
+      Group="Rocks"
+      MaterialExpressionEditorX=-3326
+      MaterialExpressionEditorY=1810
+      MaterialExpressionGuid=BC68B95B4F385C6725604C9DCE127EA7
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_11"
+      DefaultValue=1.000000
+      ParameterName="DustSpeed"
+      ExpressionGUID=0D64DE1C430D973A377225AD0760409D
+      Group="Dust"
+      MaterialExpressionEditorX=-2382
+      MaterialExpressionEditorY=-1028
+      MaterialExpressionGuid=A6E086464D46E40BEB7FCE90E41FB175
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_12"
+      DefaultValue=0.700000
+      ParameterName="Roughness"
+      ExpressionGUID=D55C23404E968C5D62537C9CCFF7E769
+      Group="Sand"
+      MaterialExpressionEditorX=-4158
+      MaterialExpressionEditorY=34
+      MaterialExpressionGuid=FBD3F23442865AF245D229AAE2E90E07
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_13"
+      DefaultValue=0.500000
+      ParameterName="Specular"
+      ExpressionGUID=F006D15A445EC731237CFF994826E0E9
+      Group="Sand"
+      MaterialExpressionEditorX=-4158
+      MaterialExpressionEditorY=-46
+      MaterialExpressionGuid=8D72224B4D04FA2039D003AF3C43DAA7
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_14"
+      DefaultValue=1.000000
+      ParameterName="ScaleRocks"
+      ExpressionGUID=DB7B4C9C4BFA7B7072CC059393A9DA6F
+      Group="Rocks"
+      MaterialExpressionEditorX=-3326
+      MaterialExpressionEditorY=1586
+      MaterialExpressionGuid=B70A7AE74C6A005ABA196FB207D0DA8C
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_15"
+      DefaultValue=1.000000
+      ParameterName="PebblesBaseScale"
+      ExpressionGUID=CD6B70604C2CC37734539C9BAFC2C97C
+      Group="Pebbles"
+      MaterialExpressionEditorX=-2464
+      MaterialExpressionEditorY=432
+      MaterialExpressionGuid=F61DF06D49CA81043E6957A8EB6F4D1E
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_16"
+      DefaultValue=0.500000
+      ParameterName="PebblesSpecular"
+      ExpressionGUID=10EAF8BF41709C03DBBC18BF7D73E6DD
+      Group="Pebbles"
+      MaterialExpressionEditorX=-2464
+      MaterialExpressionEditorY=336
+      MaterialExpressionGuid=B58143414B3D54EDB3F343818FB9363B
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_17"
+      DefaultValue=0.200000
+      ParameterName="DustDistortionSpeed"
+      ExpressionGUID=E0AAAD8C4AE04F02ED0B868E63915074
+      Group="Dust"
+      MaterialExpressionEditorX=-3086
+      MaterialExpressionEditorY=-941
+      MaterialExpressionGuid=8038C3FE4D727D0D6606A1B92DD132B4
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_173"
+      DefaultValue=1.000000
+      ParameterName="RoughnessRocksHigh"
+      ExpressionGUID=8A5531C844166BACD643338B545A67BD
+      Group="Rocks"
+      MaterialExpressionEditorX=-2661
+      MaterialExpressionEditorY=1681
+      MaterialExpressionGuid=1A6CC0434DE4A5AC2FF0EF9A6A8DAEAB
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_176"
+      DefaultValue=1.000000
+      ParameterName="RoughnessRocksLow"
+      ExpressionGUID=419D347E4502290BD0234284C074C016
+      Group="Rocks"
+      MaterialExpressionEditorX=-2640
+      MaterialExpressionEditorY=1584
+      MaterialExpressionGuid=FDD3D92B4BF94140D122369E02709925
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_179"
+      DefaultValue=1.000000
+      ParameterName="AOPowerRocks"
+      ExpressionGUID=5285D21D417262C2DCF0A4B07121C15A
+      Group="Rocks"
+      MaterialExpressionEditorX=-2660
+      MaterialExpressionEditorY=1784
+      MaterialExpressionGuid=E2B82CC64F8C9AE802D904978D15B9AB
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_18"
+      DefaultValue=3.000000
+      ParameterName="DunesScaleNormal"
+      ExpressionGUID=0B6104364BE5920441DE12A99743DCED
+      Group="Dunes"
+      MaterialExpressionEditorX=-4190
+      MaterialExpressionEditorY=594
+      MaterialExpressionGuid=1CE6F2D84C3BCCBE8682E4B18785110C
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_182"
+      DefaultValue=1.000000
+      ParameterName="DetailNormalIntensityRocks"
+      ExpressionGUID=F922F9DF4A0AA2779DACE8973A23FF4A
+      Group="Rocks"
+      MaterialExpressionEditorX=-2680
+      MaterialExpressionEditorY=1884
+      MaterialExpressionGuid=53CD9F624D8C4A9A27997EB04D6A0335
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_185"
+      DefaultValue=1.000000
+      ParameterName="DetailNormalScaleRocks"
+      ExpressionGUID=0F167A3F485342C0E656C8AD0818C7D2
+      Group="Rocks"
+      MaterialExpressionEditorX=-2700
+      MaterialExpressionEditorY=1984
+      MaterialExpressionGuid=9B7030DC4F252E2C9683BDA1C55FB81D
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_19"
+      DefaultValue=1000.000000
+      ParameterName="DustDistortionSize"
+      ExpressionGUID=979EBE774B7B1B69369272AA09986C15
+      Group="Dust"
+      MaterialExpressionEditorX=-3070
+      MaterialExpressionEditorY=-1043
+      MaterialExpressionGuid=E25BE4C944E163ADFE3DCE82D50DC020
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_190"
+      DefaultValue=1.000000
+      ParameterName="HeightLerpContrast"
+      ExpressionGUID=C586A05249248C03F3B2B7B0F938AFFE
+      Group="Blend"
+      MaterialExpressionEditorX=-2458
+      MaterialExpressionEditorY=1161
+      MaterialExpressionGuid=22A978CB4E6FEFBBD728CFB9547D0FD8
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_2"
+      ParameterName="AOIntensity"
+      ExpressionGUID=1BCF8A2F4C9004808C3A709114E19A19
+      Group="Sand"
+      MaterialExpressionEditorX=-4158
+      MaterialExpressionEditorY=514
+      MaterialExpressionGuid=7C826CBA465871DB1430F9A63FDB96B1
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_20"
+      DefaultValue=1.000000
+      ParameterName="DustDistortionStrength"
+      ExpressionGUID=AF7875724C6D6FD2833B2F8A330D269B
+      Group="Dust"
+      MaterialExpressionEditorX=-2734
+      MaterialExpressionEditorY=-884
+      MaterialExpressionGuid=13D944304B9E841CEBF69C9195EE2E22
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_208"
+      DefaultValue=1.000000
+      ParameterName="maskContrast"
+      ExpressionGUID=609CF3024E586A5CEF519BA2FDF8108F
+      Group="SandMask"
+      MaterialExpressionEditorX=-1488
+      MaterialExpressionEditorY=2432
+      MaterialExpressionGuid=2B9904F643F429CEA525D1A347AF176C
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_209"
+      DefaultValue=1.000000
+      ParameterName="maskBrightness"
+      ExpressionGUID=1D9FABD4480D38B0F391DD8D9AEADA1F
+      Group="SandMask"
+      MaterialExpressionEditorX=-1360
+      MaterialExpressionEditorY=2528
+      MaterialExpressionGuid=F4019BD045A04C3364C591ADE94697D9
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_210"
+      DefaultValue=1.000000
+      ParameterName="RockmaskContrast"
+      ExpressionGUID=7742A135496F6026C1859B9711429015
+      Group="RockMask"
+      MaterialExpressionEditorX=-4782
+      MaterialExpressionEditorY=1266
+      MaterialExpressionGuid=E0DE10BF45423E70A7C13598EF98500F
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_23"
+      DefaultValue=3.000000
+      ParameterName="ScaleNormal"
+      ExpressionGUID=0FA9FD70479ED1DB28B2AC90B3FE68DC
+      Group="Sand"
+      MaterialExpressionEditorX=-4158
+      MaterialExpressionEditorY=354
+      MaterialExpressionGuid=A6A05A2245F268A673C742AD145184A3
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_24"
+      DefaultValue=1.000000
+      ParameterName="NormalIntensity"
+      ExpressionGUID=A8825E414188C45F9F9740B6DCE93DAC
+      Group="Sand"
+      MaterialExpressionEditorX=-4174
+      MaterialExpressionEditorY=274
+      MaterialExpressionGuid=A824063B4AAA455F0FE10293326E0A84
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_25"
+      DefaultValue=1.000000
+      ParameterName="RockmaskBrightness"
+      ExpressionGUID=DF7A238749AF889A314A74A5D078565F
+      Group="RockMask"
+      MaterialExpressionEditorX=-4590
+      MaterialExpressionEditorY=1314
+      MaterialExpressionGuid=E44BA11F49A75C1A6B5E22B306A594FD
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_26"
+      DefaultValue=0.500000
+      ParameterName="RockmaskThreshold"
+      ExpressionGUID=A0EB7E694BE90C4872E6D3B840C488D3
+      Group="RockMask"
+      MaterialExpressionEditorX=-4042
+      MaterialExpressionEditorY=1374
+      MaterialExpressionGuid=EB921D794C809A6C83162BB848ACB0E0
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_3"
+      DefaultValue=1.000000
+      ParameterName="ScaleDiffuse"
+      ExpressionGUID=371EFF88414EFA9EE63CEFA9AF01A4CB
+      Group="Sand"
+      MaterialExpressionEditorX=-4174
+      MaterialExpressionEditorY=-126
+      MaterialExpressionGuid=286E45E54A95488B7754CFBB39672CDF
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_31"
+      DefaultValue=1.000000
+      ParameterName="DunesBlendPower"
+      ExpressionGUID=3C9901574EF5764664F26B91CC088E02
+      Group="Dunes"
+      MaterialExpressionEditorX=-4494
+      MaterialExpressionEditorY=-302
+      MaterialExpressionGuid=AF912899490F7B1F9877B9B3862783FC
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_32"
+      DefaultValue=1.000000
+      ParameterName="DunesBlendBrightness"
+      ExpressionGUID=2AC2BB4C406D9567F1665389CCA21089
+      Group="Dunes"
+      MaterialExpressionEditorX=-4222
+      MaterialExpressionEditorY=-206
+      MaterialExpressionGuid=B419043642B8C16E4FF575AD1F176E1D
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_4"
+      DefaultValue=1.000000
+      ParameterName="DunesNormalIntensity"
+      ExpressionGUID=C2ADC7714898CD25BC83119F7BBBC645
+      Group="Dunes"
+      MaterialExpressionEditorX=-4214
+      MaterialExpressionEditorY=430
+      MaterialExpressionGuid=4296607A43823FB9EBE44AA828FF6A80
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_6"
+      ParameterName="DustFadeDistance"
+      ExpressionGUID=795ED28D4CF296699E6A3AA7CF9C1482
+      Group="Dust"
+      MaterialExpressionEditorX=-2070
+      MaterialExpressionEditorY=-1294
+      MaterialExpressionGuid=7135AFA141BCE115F13B26807C395225
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_7"
+      DefaultValue=5000.000000
+      ParameterName="ZBlend"
+      ExpressionGUID=209ADEBB4BBD3DAAADA66D8CF5D87E5E
+      MaterialExpressionEditorX=-4158
+      MaterialExpressionEditorY=114
+      MaterialExpressionGuid=1C5FAE4D448FADAE636AC8B073D17147
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_8"
+      ParameterName="ZBlendOffset"
+      ExpressionGUID=27D0E26B4B03ED75DFB1ED93420B3045
+      MaterialExpressionEditorX=-4158
+      MaterialExpressionEditorY=194
+      MaterialExpressionGuid=14A03069421DCEDD40B9A2AF0B3B0F6A
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionScalarParameter_9"
+      ParameterName="DustFadeOffset"
+      ExpressionGUID=B95AECAF491B66D0A36ED09C615AFDDA
+      Group="Dust"
+      MaterialExpressionEditorX=-2054
+      MaterialExpressionEditorY=-1198
+      MaterialExpressionGuid=578B7D364CF1B4264022BB996CD20E5E
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionSine_1"
+      Input=(Expression=MaterialExpressionAdd'M_Landscape_SandRock:MaterialExpressionAdd_7')
+      MaterialExpressionEditorX=-2630
+      MaterialExpressionEditorY=-1002
+      MaterialExpressionGuid=17AE459C471312A6CFC3088773DCF244
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionTextureCoordinate_1"
+      MaterialExpressionEditorX=-2382
+      MaterialExpressionEditorY=-1252
+      MaterialExpressionGuid=A3C523ED4286373F19DE33BB0EF99EA6
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_4"
+      Coordinates=(Expression=MaterialExpressionPanner'M_Landscape_SandRock:MaterialExpressionPanner_1')
+      Texture=Texture2D'/Game/Assets/Texture/T_Sand_M.T_Sand_M'
+      MaterialExpressionEditorX=-1860
+      MaterialExpressionEditorY=-1087
+      MaterialExpressionGuid=63C51C4344C6984543633194BCE529D9
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionTextureSample_51"
+      Coordinates=(Expression=MaterialExpressionLinearInterpolate'M_Landscape_SandRock:MaterialExpressionLinearInterpolate_0')
+      Texture=Texture2D'/Game/Assets/Texture/T_TilingRocks_M.T_TilingRocks_M'
+      MaterialExpressionEditorX=-2442
+      MaterialExpressionEditorY=969
+      MaterialExpressionGuid=6BB18A1E49D789D2E5F1C4B41273F717
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionTime_4"
+      MaterialExpressionEditorX=-2494
+      MaterialExpressionEditorY=-836
+      MaterialExpressionGuid=7E4CDA964803C37F2EFBB7B022DB80DA
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionTime_5"
+      MaterialExpressionEditorX=-3022
+      MaterialExpressionEditorY=-852
+      MaterialExpressionGuid=1B35D0D2474AAC01B902E784B98B7390
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_1"
+      DefaultValue=(R=0.241379,G=0.158747,B=0.048563,A=1.000000)
+      ParameterName="Sand Color2"
+      ExpressionGUID=10A33829474792F1449EFE84510B91DC
+      Group="Sand"
+      MaterialExpressionEditorX=-4542
+      MaterialExpressionEditorY=-14
+      MaterialExpressionGuid=94B7145E4E8971496B2F60BB5D208DA4
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_12"
+      DefaultValue=(R=0.425000,G=0.370617,B=0.288139,A=0.000000)
+      ParameterName="Pebbles dirt color"
+      ExpressionGUID=32B477D144AA41CB971339A34AD47AB4
+      Group="Pebbles"
+      MaterialExpressionEditorX=-2480
+      MaterialExpressionEditorY=-80
+      MaterialExpressionGuid=072F781240879BA317326A856C1424E5
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_13"
+      DefaultValue=(R=0.425000,G=0.370617,B=0.288139,A=0.000000)
+      ParameterName="Pebbles stone color"
+      ExpressionGUID=E0FCE7424BAD9BBBFCB678B1263EC79E
+      Group="Pebbles"
+      MaterialExpressionEditorX=-2480
+      MaterialExpressionEditorY=128
+      MaterialExpressionGuid=3CAF347D4988681ECA6F7EB9C0D853FB
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_2"
+      DefaultValue=(R=0.241379,G=0.158747,B=0.048563,A=1.000000)
+      ParameterName="Sand Color3"
+      ExpressionGUID=10967BB240F3ADCCA1348DBC8643273B
+      Group="Sand"
+      MaterialExpressionEditorX=-4542
+      MaterialExpressionEditorY=178
+      MaterialExpressionGuid=A5E726AC49B76829C18B1F8C262683CD
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_3"
+      DefaultValue=(R=0.241379,G=0.158747,B=0.048563,A=1.000000)
+      ParameterName="Sand Color"
+      ExpressionGUID=526540CA433C94922B5333AF737FA440
+      Group="Sand"
+      MaterialExpressionEditorX=-4542
+      MaterialExpressionEditorY=-206
+      MaterialExpressionGuid=BD920BB34E187061A7DCB28DB6A60A92
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_4"
+      DefaultValue=(R=1.000000,G=1.000000,B=1.000000,A=1.000000)
+      ParameterName="DustColor"
+      ExpressionGUID=89BA7BE94693267E9D08B7B5F5E39239
+      Group="Dust"
+      MaterialExpressionEditorX=576
+      MaterialExpressionEditorY=624
+      MaterialExpressionGuid=487F333046F623699E919CA389BEAC97
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_41"
+      DefaultValue=(R=0.051724,G=0.047689,B=0.044087,A=1.000000)
+      ParameterName="Color1Rocks"
+      ExpressionGUID=A77A14C943F1A3F4EE04028D5CEA0836
+      Group="Rocks"
+      MaterialExpressionEditorX=-2708
+      MaterialExpressionEditorY=2088
+      MaterialExpressionGuid=A6380EB24B2468C286638096E1223B6C
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_42"
+      DefaultValue=(R=0.051724,G=0.047689,B=0.044087,A=1.000000)
+      ParameterName="Color2Rocks"
+      ExpressionGUID=C37714E9403F4FE42972F49514E2D06E
+      Group="Rocks"
+      MaterialExpressionEditorX=-2708
+      MaterialExpressionEditorY=2296
+      MaterialExpressionGuid=15535E384C5B6FBF3F7E9DB8936DE0BC
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVectorParameter_5"
+      DefaultValue=(R=0.000000,G=0.000000,B=1.000000,A=1.000000)
+      ParameterName="DustNormalDirection"
+      ExpressionGUID=45AD8D8E4CF80F0643E7DAA4AF746B49
+      Group="Dust"
+      MaterialExpressionEditorX=-3102
+      MaterialExpressionEditorY=-580
+      MaterialExpressionGuid=AFF732FB483B38CDD0AC5BA6525A94CB
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionVertexNormalWS_12"
+      MaterialExpressionEditorX=-4958
+      MaterialExpressionEditorY=1202
+      MaterialExpressionGuid=8ADBFBA34FF449DD0231CC8A186D1AE9
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="MaterialExpressionWorldPosition_1"
+      MaterialExpressionEditorX=-3230
+      MaterialExpressionEditorY=-1139
+      MaterialExpressionGuid=D848D53E45CBB19FC9982E9458E6D097
+      Material=Material'M_Landscape_SandRock'
+   End Object
+   Begin Object Name="SceneThumbnailInfoWithPrimitive_4"
+   End Object
+   MaterialAttributes=(Expression=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_31')
+   bUsedWithLandscape=True
+   bUsedWithStaticLighting=True
+   EditorX=1200
+   EditorY=512
+   Expressions(0)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_31'
+   Expressions(1)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_5'
+   Expressions(2)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_12'
+   Expressions(3)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_3'
+   Expressions(4)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_1'
+   Expressions(5)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_7'
+   Expressions(6)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_8'
+   Expressions(7)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_2'
+   Expressions(8)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_3'
+   Expressions(9)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_23'
+   Expressions(10)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_24'
+   Expressions(11)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_13'
+   Expressions(12)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_18'
+   Expressions(13)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_2'
+   Expressions(14)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_4'
+   Expressions(15)=MaterialExpressionPanner'MaterialExpressionPanner_1'
+   Expressions(16)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_11'
+   Expressions(17)=MaterialExpressionMultiply'MaterialExpressionMultiply_17'
+   Expressions(18)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_4'
+   Expressions(19)=MaterialExpressionMultiply'MaterialExpressionMultiply_7'
+   Expressions(20)=MaterialExpressionTime'MaterialExpressionTime_4'
+   Expressions(21)=MaterialExpressionTextureCoordinate'MaterialExpressionTextureCoordinate_1'
+   Expressions(22)=MaterialExpressionMultiply'MaterialExpressionMultiply_2'
+   Expressions(23)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_1'
+   Expressions(24)=MaterialExpressionDotProduct'MaterialExpressionDotProduct_3'
+   Expressions(25)=MaterialExpressionPower'MaterialExpressionPower_3'
+   Expressions(26)=MaterialExpressionMultiply'MaterialExpressionMultiply_22'
+   Expressions(27)=MaterialExpressionClamp'MaterialExpressionClamp_5'
+   Expressions(28)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_31'
+   Expressions(29)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_32'
+   Expressions(30)=MaterialExpressionPixelNormalWS'MaterialExpressionPixelNormalWS_0'
+   Expressions(31)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_5'
+   Expressions(32)=MaterialExpressionAdd'MaterialExpressionAdd_6'
+   Expressions(33)=MaterialExpressionSine'MaterialExpressionSine_1'
+   Expressions(34)=MaterialExpressionWorldPosition'MaterialExpressionWorldPosition_1'
+   Expressions(35)=MaterialExpressionComponentMask'MaterialExpressionComponentMask_1'
+   Expressions(36)=MaterialExpressionDivide'MaterialExpressionDivide_2'
+   Expressions(37)=MaterialExpressionAdd'MaterialExpressionAdd_7'
+   Expressions(38)=MaterialExpressionTime'MaterialExpressionTime_5'
+   Expressions(39)=MaterialExpressionMultiply'MaterialExpressionMultiply_13'
+   Expressions(40)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_19'
+   Expressions(41)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_17'
+   Expressions(42)=MaterialExpressionMultiply'MaterialExpressionMultiply_16'
+   Expressions(43)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_20'
+   Expressions(44)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_4'
+   Expressions(45)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_4'
+   Expressions(46)=MaterialExpressionMultiply'MaterialExpressionMultiply_6'
+   Expressions(47)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_6'
+   Expressions(48)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_9'
+   Expressions(49)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_22'
+   Expressions(50)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_23'
+   Expressions(51)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_173'
+   Expressions(52)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_176'
+   Expressions(53)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_179'
+   Expressions(54)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_182'
+   Expressions(55)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_185'
+   Expressions(56)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_14'
+   Expressions(57)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_41'
+   Expressions(58)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_42'
+   Expressions(59)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_24'
+   Expressions(60)=MaterialExpressionTextureSample'MaterialExpressionTextureSample_51'
+   Expressions(61)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_190'
+   Expressions(62)=MaterialExpressionLandscapeLayerCoords'MaterialExpressionLandscapeLayerCoords_1'
+   Expressions(63)=MaterialExpressionMultiply'MaterialExpressionMultiply_1'
+   Expressions(64)=MaterialExpressionPixelNormalWS'MaterialExpressionPixelNormalWS_13'
+   Expressions(65)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_56'
+   Expressions(66)=MaterialExpressionDotProduct'MaterialExpressionDotProduct_25'
+   Expressions(67)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_208'
+   Expressions(68)=MaterialExpressionPower'MaterialExpressionPower_28'
+   Expressions(69)=MaterialExpressionMultiply'MaterialExpressionMultiply_160'
+   Expressions(70)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_209'
+   Expressions(71)=MaterialExpressionClamp'MaterialExpressionClamp_42'
+   Expressions(72)=MaterialExpressionBreakMaterialAttributes'MaterialExpressionBreakMaterialAttributes_0'
+   Expressions(73)=MaterialExpressionMakeMaterialAttributes'MaterialExpressionMakeMaterialAttributes_2'
+   Expressions(74)=MaterialExpressionBreakMaterialAttributes'MaterialExpressionBreakMaterialAttributes_3'
+   Expressions(75)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_44'
+   Expressions(76)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_47'
+   Expressions(77)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_48'
+   Expressions(78)=MaterialExpressionLandscapeLayerBlend'MaterialExpressionLandscapeLayerBlend_0'
+   Expressions(79)=MaterialExpressionConstant'MaterialExpressionConstant_6'
+   Expressions(80)=MaterialExpressionConstant'MaterialExpressionConstant_7'
+   Expressions(81)=MaterialExpressionAdd'MaterialExpressionAdd_42'
+   Expressions(82)=MaterialExpressionClamp'MaterialExpressionClamp_40'
+   Expressions(83)=MaterialExpressionConstant3Vector'MaterialExpressionConstant3Vector_57'
+   Expressions(84)=MaterialExpressionDotProduct'MaterialExpressionDotProduct_26'
+   Expressions(85)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_210'
+   Expressions(86)=MaterialExpressionPower'MaterialExpressionPower_29'
+   Expressions(87)=MaterialExpressionMultiply'MaterialExpressionMultiply_161'
+   Expressions(88)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_25'
+   Expressions(89)=MaterialExpressionClamp'MaterialExpressionClamp_43'
+   Expressions(90)=MaterialExpressionVertexNormalWS'MaterialExpressionVertexNormalWS_12'
+   Expressions(91)=MaterialExpressionOneMinus'MaterialExpressionOneMinus_0'
+   Expressions(92)=MaterialExpressionLinearInterpolate'MaterialExpressionLinearInterpolate_0'
+   Expressions(93)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_10'
+   Expressions(94)=MaterialExpressionIf'MaterialExpressionIf_0'
+   Expressions(95)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_26'
+   Expressions(96)=MaterialExpressionConstant'MaterialExpressionConstant_0'
+   Expressions(97)=MaterialExpressionConstant'MaterialExpressionConstant_1'
+   Expressions(98)=MaterialExpressionLandscapeLayerCoords'MaterialExpressionLandscapeLayerCoords_2'
+   Expressions(99)=MaterialExpressionMultiply'MaterialExpressionMultiply_3'
+   Expressions(100)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_2'
+   Expressions(101)=MaterialExpressionLandscapeLayerWeight'MaterialExpressionLandscapeLayerWeight_0'
+   Expressions(102)=MaterialExpressionMaterialFunctionCall'MaterialExpressionMaterialFunctionCall_6'
+   Expressions(103)=MaterialExpressionConstant'MaterialExpressionConstant_2'
+   Expressions(104)=MaterialExpressionConstant'MaterialExpressionConstant_3'
+   Expressions(105)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_12'
+   Expressions(106)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_15'
+   Expressions(107)=MaterialExpressionVectorParameter'MaterialExpressionVectorParameter_13'
+   Expressions(108)=MaterialExpressionScalarParameter'MaterialExpressionScalarParameter_16'
+   Expressions(109)=MaterialExpressionClamp'MaterialExpressionClamp_0'
+   EditorComments(0)=MaterialExpressionComment'MaterialExpressionComment_0'
+   EditorComments(1)=MaterialExpressionComment'MaterialExpressionComment_1'
+   EditorComments(2)=MaterialExpressionComment'MaterialExpressionComment_2'
+   EditorComments(3)=MaterialExpressionComment'MaterialExpressionComment_3'
+   EditorComments(4)=MaterialExpressionComment'MaterialExpressionComment_4'
+   EditorComments(5)=MaterialExpressionComment'MaterialExpressionComment_5'
+   EditorComments(6)=MaterialExpressionComment'MaterialExpressionComment_6'
+   EditorComments(7)=MaterialExpressionComment'MaterialExpressionComment_70'
+   EditorComments(8)=MaterialExpressionComment'MaterialExpressionComment_71'
+   MaterialFunctionInfos(0)=(StateId=43C2CCB94EDA9DA83B2480AEB7209E9E,Function=MaterialFunction'/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_OverrideBaseColor.MatLayerBlend_OverrideBaseColor')
+   MaterialFunctionInfos(1)=(StateId=27619BE049C4485638A310912FA95EE9,Function=MaterialFunction'/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.MatLayerBlend_Standard')
+   MaterialFunctionInfos(2)=(StateId=DD44CC9D4987047FE7B9B381E4FC7145,Function=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Opacity/CameraDepthFade.CameraDepthFade')
+   MaterialFunctionInfos(3)=(StateId=B3EF333643D232B48DD9EF913FD066E3,Function=MaterialFunction'/Game/Assets/Materials/MF_Sand.MF_Sand')
+   MaterialFunctionInfos(4)=(StateId=66F45EB54557E1DEAA50C7B3CAA415AC,Function=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.BlendAngleCorrectedNormals')
+   MaterialFunctionInfos(5)=(StateId=0DF04C324184372D3E4C1A89045402A5,Function=MaterialFunction'/Game/Assets/Materials/MF_Rocks.MF_Rocks')
+   MaterialFunctionInfos(6)=(StateId=66F45EB54557E1DEAA50C7B3CAA415AC,Function=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Utility/BlendAngleCorrectedNormals.BlendAngleCorrectedNormals')
+   MaterialFunctionInfos(7)=(StateId=EA349EF84204E4B2A29CD1B925CE2E19,Function=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions02/Texturing/HeightLerp.HeightLerp')
+   MaterialFunctionInfos(8)=(StateId=B7C71B914E2BB667772D6CBE2AB55665,Function=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/Gradient/LinearGradient.LinearGradient')
+   MaterialFunctionInfos(9)=(StateId=3FA44BF2462D624CFA2229876FE1F968,Function=MaterialFunction'/Engine/Functions/Engine_MaterialFunctions01/ImageAdjustment/CheapContrast.CheapContrast')
+   MaterialFunctionInfos(10)=(StateId=06CC199F44F5DEEED9CC7E8C2FE1A82B,Function=MaterialFunction'/Game/Assets/Materials/MF_Pebbles.MF_Pebbles')
+   MaterialFunctionInfos(11)=(StateId=27619BE049C4485638A310912FA95EE9,Function=MaterialFunction'/Engine/Functions/MaterialLayerFunctions/MatLayerBlend_Standard.MatLayerBlend_Standard')
+   bUseMaterialAttributes=True
+   StateId=4EB6E213491172AC5C74AF88D056A166
+   ReferencedTextureGuids(0)=D27BE3E94733198A416EE28F64693FC1
+   ReferencedTextureGuids(1)=32389EEB47F0A905D1C0588863F08FF3
+   ReferencedTextureGuids(2)=317D151E41B3191480F7C4BE782DF223
+   ReferencedTextureGuids(3)=0585932D478399F0ED6B5DA14A3E8097
+   ReferencedTextureGuids(4)=34DF61E243B9D2159896B988BB11E2E5
+   ReferencedTextureGuids(5)=1932CCB5472FCDE760FF02B2FE93909C
+   ReferencedTextureGuids(6)=394CCFA2403592447F5686B6A76A4D3F
+   ReferencedTextureGuids(7)=D7E3D4E24F42C905337BFA911CCC735C
+   ReferencedTextureGuids(8)=28EB2DEC48D7DBF0DACD0FBA230ACD5F
+   ReferencedTextureGuids(9)=66DC8EB045B6BFE9AB96F6B56FA86ECE
+   ThumbnailInfo=SceneThumbnailInfoWithPrimitive'SceneThumbnailInfoWithPrimitive_4'
+   LightingGuid=12F5D8F84023AECC8991B480FA1DAD30
+End Object
